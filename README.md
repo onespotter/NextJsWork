@@ -8,5 +8,10 @@
 
 <img width="1592" height="928" alt="image" src="https://github.com/user-attachments/assets/b83381bb-c426-4369-ba8f-37fa82c7b06e" />
 
+# SSR are 2 types:
+1. Static : HTML generated at build time ( Often called static site genearation or SSG )
+2. Dynamic: HTML generated each time server receives new request ( SSR )
+
+<img width="1524" height="704" alt="image" src="https://github.com/user-attachments/assets/00cf11a4-c889-4a29-b9f2-7234c14f1ab8" />
 
 
